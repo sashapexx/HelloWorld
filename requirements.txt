@@ -1,0 +1,2 @@
+# requirements.txt
+# Aucune dépendance externe pour le moment
